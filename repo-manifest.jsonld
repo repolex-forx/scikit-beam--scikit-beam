@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-beam/scikit-beam/commit/dbe344435f6b12749104b868f7e251624acee565",
       "git:hexsha": "dbe344435f6b12749104b868f7e251624acee565",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-beam/scikit-beam/commit/03b257e12f909506d0852d32f7645c4f7f970b52",
